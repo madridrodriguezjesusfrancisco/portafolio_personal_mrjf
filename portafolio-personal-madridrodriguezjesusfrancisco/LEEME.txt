@@ -1,0 +1,16 @@
+PORTAFOLIO PERSONAL — MADRID RODRIGUEZ JESUS FRANCISCO
+
+Nombre: Madrid Rodriguez Jesus Francisco
+Matrícula: 25311057
+Grupo: DSm 4-1
+Carrera: Desarrollo de Software Multiplataforma
+Docente: Bernardo Prado Díaz
+Proyecto: MRJF — JM Perfumería
+
+URL de Render propuesta:
+https://portafolio-personal-madridrodriguezjesusfrancisco.onrender.com/
+
+IMPORTANTE:
+La URL anterior corresponde al nombre de servicio configurado para Render. Para que quede publicada, sube esta carpeta a un repositorio de GitHub y crea el servicio en Render con el archivo render.yaml, o crea un Static Site con ese mismo nombre.
+
+La foto de perfil ya está incluida como foto-perfil.png.

@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: portafolio-personal-madridrodriguezjesusfrancisco
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
